@@ -9,7 +9,7 @@ Simple Interest (SI) = (P × R × T) / 100
 ```
 
 Where:
-- **P** = Princpal amount (the initial sum of money)
+- **P** = Principal amount (the initial sum of money)
 - **R** = Annual interest rate (in percent)
 - **T** = Time period (in years)
 
