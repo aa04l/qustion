@@ -1,0 +1,10 @@
+$ git branch -a
+* bug-fix-revert
+  main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-revert
+  remotes/origin/main
+
+$ git status
+On branch bug-fix-revert
+nothing to commit, working tree clean
